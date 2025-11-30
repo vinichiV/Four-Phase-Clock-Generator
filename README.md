@@ -7,7 +7,7 @@ By using two **D-type flip-flops** (four phases, two bits), we can design a four
 
 ***
 ***PRE-NEXT State Table:***<br>
-<img width="695" height="268" alt="image" src="https://github.com/user-attachments/assets/e9559ba1-fb16-4d0d-b9f3-7515976a48b8" />
+<img width="986" height="333" alt="image" src="https://github.com/user-attachments/assets/e1136e27-572f-47dd-989a-83b469384a79" /><br>
 ***K-Map for D0:***<br>
 ![Screenshot 2024-12-22 151203](https://github.com/user-attachments/assets/bfde88b3-c5cc-4831-8d5d-4c2b9fb1831f)<br>
 ***K-Map for D1:***<br>
